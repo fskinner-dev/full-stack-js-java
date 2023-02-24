@@ -1,0 +1,29 @@
+
+* {
+	margin: 50px;
+	padding: 1px;
+}
+
+div {
+  resize: both;
+  flex-wrap: wrap;
+}
+
+body{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-repeat: no repeat;
+}
+
+wrapper{
+    border-color: black;
+    border: 10pt;
+    position: relative;
+    width: auto;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+
+
+
